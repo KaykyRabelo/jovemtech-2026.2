@@ -1,0 +1,14 @@
+{
+  "name": "campo-minado-jovemtech",
+  "version": "1.0.0",
+  "description": "Campo minado no terminal, em JavaScript puro, sem dependências.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
